@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Images/render.png" alt="Render projektu" width="80%">
+  <img src="Images/Just_Hub_render.png" alt="Render projektu" width="80%">
 </div>
 
 ---
