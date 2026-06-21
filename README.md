@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Images/render.png" alt="Render projektu" width="80%">
+  <img src="Images/Just_Hub_render.png" alt="Render projektu" width="80%">
 </div>
 
 ---
@@ -33,6 +33,13 @@
 
 <div align="center">
   <img src="Images/ZINE.png" alt="Render projektu" width="80%">
+</div>
+
+## Images
+
+<div align="center">
+  <img src="Images/Top_PCB.png" alt="Render projektu" width="80%">
+  <img src="Images/Bottom_PCB.png" alt="Render projektu" width="80%">
 </div>
 
 ## ⚖️ License
