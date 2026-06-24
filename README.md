@@ -28,7 +28,13 @@
 **and thats all because IT IS JUST HUB lol**
 
 ---
-
+## How to build it:
+ - You just buy all of the components and PCBs
+ - Solder everything in place
+ - Print enclosure
+ - Put board into the enclousre and just tigthen the screw
+ - And then just plug it in and id sholud work! 
+---
 ## Zine
 
 <div align="center">
