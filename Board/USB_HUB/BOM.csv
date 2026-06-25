@@ -15,6 +15,6 @@
 "R6,R7","2","5.1k","","","","Resistor_SMD:R_0603_1608Metric","https://www.lcsc.com/datasheet/C53224208.pdf","1RC0603F5101","C53224208"
 "R8","1","10k","","","","Resistor_SMD:R_0603_1608Metric","https://www.lcsc.com/datasheet/C101254.pdf","CR0603JA0103G","C101254"
 "R9","1","47k","","","","Resistor_SMD:R_0603_1608Metric","https://www.lcsc.com/datasheet/C46635305.pdf","CL0603JN47KP","C46635305"
-"U1","1","AMS1117-3.3","","","","Package_TO_SOT_SMD:SOT-89-3","http://www.advanced-monolithic.com/pdf/ds1117.pdf","",""
+"U1","1","AMS1117-3.3","","","","Package_TO_SOT_SMD:SOT-89-3","https://www.lcsc.com/datasheet/C50313802.pdf","AMS1117-3.3OF","C50313802"
 "U2","1","GL852G-OHY60_C7501404","","","","EasyEDA:QFN-28_L5.0-W5.0-P0.50-BL-EP","https://www.lcsc.com/datasheet/C7501404.pdf","GL852G-OHY60","C7501404"
 "Y1","1","12MHz","","","","Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm","https://www.lcsc.com/datasheet/C368730.pdf","K3A120002010","C368730"
