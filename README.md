@@ -82,10 +82,10 @@ You are free to share and adapt this material under the following terms:
 | 14 | 2 | `5.1k` | 1RC0603F5101 | [C53224208](https://www.lcsc.com/product-detail/C53224208.html) | [PDF](https://www.lcsc.com/datasheet/C53224208.pdf) | 0.0014 | 0.0028 |
 | 15 | 1 | `10k` | CR0603JA0103G | [C101254](https://www.lcsc.com/product-detail/C101254.html) | [PDF](https://www.lcsc.com/datasheet/C101254.pdf) | 0.0016 | 0.0016 |
 | 16 | 1 | `47k` | CL0603JN47KP | [C46635305](https://www.lcsc.com/product-detail/C46635305.html) | [PDF](https://www.lcsc.com/datasheet/C46635305.pdf) | 0.0011 | 0.0011 |
-| 17 | 1 | `AMS1117-3.3` | *-* | [C50313802](https://www.lcsc.com/product-detail/C50313802.html) | [PDF](https://www.lcsc.com/datasheet/C50313802.pdf) | 0.0338 | 0.0338 |
+| 17 | 1 | `AMS1117-3.3` | AMS1117-3.3OF | [C50313802](https://www.lcsc.com/product-detail/C50313802.html) | [PDF](https://www.lcsc.com/datasheet/C50313802.pdf) | 0.0338 | 0.0338 |
 | 18 | 1 | `GL852G-OHY60_C7501404` | GL852G-OHY60 | [C7501404](https://www.lcsc.com/product-detail/C7501404.html) | [PDF](https://www.lcsc.com/datasheet/C7501404.pdf) | 1.0751 | 1.0751 |
 | 19 | 1 | `12MHz` | K3A120002010 | [C368730](https://www.lcsc.com/product-detail/C368730.html) | [PDF](https://www.lcsc.com/datasheet/C368730.pdf) | 0.0580 | 0.0580 |
 | 20 | 1 | `PCB` | - | - | - | 2.0000 | 2.0000 |
 | 21 | 1 | `3D Printing` | - | - | - | Free | 0.0000 |
-| 22 | 4 | `Any M3 screws` | - | - | - | - | 0.0000 |
-| **Total** |  |  |  |  |  |  | **$3.7858** |
+| 22 | 4 | `M3x12mm screws` | - | - | - | - | 0.0782 |
+| **Total** |  |  |  |  |  |  | **$$3.8640** |
