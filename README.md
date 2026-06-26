@@ -28,6 +28,10 @@
 **and thats all because IT IS JUST HUB lol**
 
 ---
+## Why I designed it?
+I needed just few more hours to get the ticket for Fallout and I thinked what could I do, something simple and not very time consuming. Firstly I've had an idea to built ligthning strike detector wit GNSS for precise time mesuring but it would take a little bit too much time, so I asked on slack, what could I built and they told me to make usb hub or tamagotchi. So i choosed hub because its useful.
+
+---
 ## How to build it:
  - You just buy all of the components and PCBs
  - Solder everything in place
